@@ -1,1 +1,1 @@
-# online-Exam
+Online examination is conducting a test online to measure the knowledge of the participants on a given topic. ... With online examination students can do the exam online, in their own time, with their own device, regardless of where they live. You only need a browser and an internet connection.
